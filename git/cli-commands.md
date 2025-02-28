@@ -17,5 +17,5 @@
   
 - Delete the most recent commit (change 1 withe the number of commits to delete), keeping the work you've done: git reset --soft HEAD~1
 - Delete the most recent commit, destroying the work you've done: git reset --hard HEAD~1
-- - Delete the most recent local commit  git reset HEAD~
+- Delete the most recent local commit  git reset HEAD~
 
